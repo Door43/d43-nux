@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nux:home|Door43 (nux)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nux|d43-nux repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nux/archive/master.zip|d43-nux.zip]]
+
+**Recent Changes**
+{{changes>ns = nux}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nux|Ethnologue data]]
+
